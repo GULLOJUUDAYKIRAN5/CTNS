@@ -1,0 +1,4 @@
+king,male,100
+queen,female,34
+uday,male,45
+kiran,male,456
