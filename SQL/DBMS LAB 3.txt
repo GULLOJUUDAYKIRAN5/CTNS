@@ -1,0 +1,8 @@
+create table 
+1. customer (cid, cname, address, phone no, mail id)
+2. order(oid, customer id, quantity, unit price, total price)
+3. shipment(ship id, order id, customer id, shipment status)
+
+1. create the above tables with appropiate data types, domain constraints and identify the primary and foreign keys of the same. Insert atleast 10 rows into each table
+2. clearly show primary key and foreign key violation with respect to the above tables
+3. analyse the nature of commands on delete cascade and on delete no action
